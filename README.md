@@ -8,5 +8,5 @@ The purpose of this is to know what my children are doing while using the intern
  - Create .properties file to hold configurations like dest email adress.
  - Use functions to better encapsulation of functionalities
  - Improve logic to just delete browser history when configured to
- - Improve logic to just delete browser history afert email is sent (This hould prevent lose information in case of no internet connection and SO restarts) 
+ - Improve logic to just delete browser history afert email is sent (This should prevent loosing information in case of no internet connection and SO restarts) 
  - Create an 'Installer' script
